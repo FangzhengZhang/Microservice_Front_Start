@@ -7,3 +7,5 @@ npx create-nx-workspace@latest nx-micro-frontend
 # Install NX
 npm install -g nx
 
+# Generate App
+nx generate @nrwl/angular:app menu
