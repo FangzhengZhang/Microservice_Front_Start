@@ -11,6 +11,6 @@ https://dev.to/rodrigokamada/hosting-an-angular-application-on-github-pages-usin
 https://www.telerik.com/blogs/deploying-angular-app-github-pages
 
 ng add angular-cli-ghpages
-ng deploy --base-href=Pages
+ng deploy --base-href=Microservice_Front_Start
 
 
