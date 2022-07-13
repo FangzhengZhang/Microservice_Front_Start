@@ -1,11 +1,11 @@
 # Microservice_Front_Start
-The front end of the microservice
+The front end of my microservice
 
-# Work Space
-npx create-nx-workspace@latest nx-micro-frontend
+### This project intends to use GitPage features to host my website. 
+(Because my old laptop cannot handle any power or internet outage problem.) 
 
-# Install NX
-npm install -g nx
 
-# Generate App
-nx generate @nrwl/angular:app menu
+## The idea is from:
+https://www.youtube.com/watch?v=42uxw1Hjo2s&ab_channel=PragmaticReviews
+https://dev.to/rodrigokamada/hosting-an-angular-application-on-github-pages-using-github-actions-5ag8
+
