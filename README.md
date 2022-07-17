@@ -1,11 +1,5 @@
 # Microservice_Front_Start
 The front end of the microservice
 
-# Work Space
-npx create-nx-workspace@latest nx-micro-frontend
+# This branch is used to redirect my website
 
-# Install NX
-npm install -g nx
-
-# Generate App
-nx generate @nrwl/angular:app menu
